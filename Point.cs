@@ -17,7 +17,7 @@ namespace Snake2
             x = _x;
             y = _y;
             sym = _sym;
-
+ 
         }
 
         public void Draw( )
